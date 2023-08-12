@@ -2,4 +2,4 @@
 calculator code
 new calculator-main
 addition
-substraction
+subtraction
