@@ -1,5 +1,3 @@
 # newcalculator
 calculator code
-new calculator-main
-addition1
-++1
+new calculat
